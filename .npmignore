@@ -1,0 +1,5 @@
+src/fixtures.ts
+src/**/*.test.ts
+dist/fixtures.js
+dist/**/*.test.js
+coverage/
