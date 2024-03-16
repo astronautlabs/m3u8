@@ -3,7 +3,9 @@
         "strict": true,
         "outDir": "dist",
         "target": "ES2016",
-        "module": "CommonJS"
+        "module": "CommonJS",
+        "declaration": true,
+        "sourceMap": true
     },
     "include": [
         "./src/**/*.ts"
