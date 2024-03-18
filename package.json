@@ -1,6 +1,6 @@
 {
   "name": "@astronautlabs/m3u8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A parser for M3U8 playlists.",
   "main": "dist/index.js",
   "module": "dist/index.d.ts",
