@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A parser for M3U8 playlists.",
   "main": "dist/index.js",
+  "module": "dist/index.d.ts",
   "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
